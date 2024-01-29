@@ -1,0 +1,15 @@
+*.log
+*.csv
+*.gz
+
+
+/week_01_basics_n_setup/1_terraform_gcp/keys
+/week_01_basics_n_setup/1_terraform_gcp/google-cloud-sdk/
+
+/week_01_basics_n_setup/1_terraform_gcp/terraform.tfstate.backup
+/week_01_basics_n_setup/1_terraform_gcp/terraform.tfstate
+/week_01_basics_n_setup/1_terraform_gcp/.terraform
+/week_01_basics_n_setup/1_terraform_gcp/.terraform.lock.hcl
+/week_01_basics_n_setup/2_docker_sql/ny_taxi_postgres_data/
+
+/week_2_Workflow_Orchestration/
